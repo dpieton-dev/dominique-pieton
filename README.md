@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banniere_GitHub.png" alt="Dominique Pieton Banner" width="100%">
+</p>
+
 # Hi 👋 I'm Dominique Pieton
 
 💻 PHP Symfony Developer  
